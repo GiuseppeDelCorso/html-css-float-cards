@@ -42,6 +42,7 @@ p{
 .posizione-profilo{
 padding: 10px;
 float: left;
+width: calc(100% / 3);
 }
 
 
@@ -52,7 +53,6 @@ float: left;
                 -5px  5px 20px rgb(218, 217, 217);
                     
     height: 80px;
-    width: 350px;
     margin: 16px 0;
     background-color: rgb(8, 8, 46);
 }
