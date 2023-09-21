@@ -39,30 +39,11 @@ p{
     text-align: center;
     padding-top: 30px;
 }
-.posizione-profilo-1{
+.posizione-profilo{
 padding: 10px;
 float: left;
 }
-.posizione-profilo-2{
-float: left;
-padding: 10px;
-}
-.posizione-profilo-3{
-    float: left;
-    padding: 10px;
-    }
-.posizione-profilo-4{
-    float: left;
-     padding: 10px;
-}
-.posizione-profilo-5{
-    float: left;
-    padding: 10px;
-    }
-.posizione-profilo-6{
-    float: left;
-   padding: 10px;     
-}
+
 
 .stile-profilo{
     box-shadow:  5px  5px 5px rgb(218, 217, 217),
